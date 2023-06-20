@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="package-name",
+    name="gpt-chat",
     version="0.1",
-    packages=["package_name"],
+    packages=["gpt_chat"],
     install_requires=[],
     extras_require={
         "dev": [
