@@ -1,4 +1,4 @@
-# New Python Package
+# gpt-chat
 
 To install directly from github, run:
 ```sh
