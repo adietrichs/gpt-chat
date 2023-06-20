@@ -1,1 +1,1 @@
-from .example import greeting
+from chat import Chat
