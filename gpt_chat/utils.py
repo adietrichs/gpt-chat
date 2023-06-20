@@ -1,6 +1,6 @@
 import tiktoken
 
-from classes import *
+from .classes import *
 
 
 TOKEN_PARAMS = {

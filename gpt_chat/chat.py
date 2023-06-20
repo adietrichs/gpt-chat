@@ -1,7 +1,7 @@
 import openai
 
-from classes import *
-from utils import *
+from .classes import *
+from .utils import *
 
 
 class Chat:
